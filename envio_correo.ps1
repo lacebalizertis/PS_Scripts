@@ -1,0 +1,1 @@
+﻿Send-MailMessage -smtpserver 10.230.160.31 -From 'CSG Migrations Europe <lacebal@izertis.com>' -To '<lacebal@izertis.com>', '<levi.acebalmiranda.contractor@arcelormittal.com>','<nacho.rodriguez@arcelormittal.com>' -Subject 'Test mail'
