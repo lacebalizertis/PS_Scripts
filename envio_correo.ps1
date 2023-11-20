@@ -1,1 +1,1 @@
-﻿Send-MailMessage -smtpserver 10.230.160.31 -From '<lacebal@izertis.com>' -To '<lacebal@izertis.com>', '<levi.acebalmiranda.contractor@arcelormittal.com>' -Subject 'Test mail'
+﻿Send-MailMessage -smtpserver 10.230.160.31 -From '<noreply@midrangeautomation.com>' -To '<lacebal@izertis.com>', '<alberto.alvarez@izertis.com>' -Subject 'Azure Test mail'
